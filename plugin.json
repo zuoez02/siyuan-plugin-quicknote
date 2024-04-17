@@ -1,0 +1,26 @@
+{
+    "name": "siyuan-plugin-quicknote",
+    "author": "zuoez02",
+    "url": "https://github.com/zuoez02/siyuan-plugin-quicknote",
+    "version": "0.1.0",
+    "minAppVersion": "2.9.4",
+    "displayName": {
+        "default": "QuickNote",
+        "zh_CN": "快速笔记"
+    },
+    "description": {
+        "default": "可设置形状和颜色的背景纹路插件，支持配置网格与点阵背景，支持配置颜色、大小、间距",
+        "zh_CN": "可设置形状和颜色的背景纹路插件，支持配置网格与点阵背景，支持配置颜色、大小、间距"
+    },
+    "readme": {
+        "default": "README.md"
+    },
+    "funding": {
+        "openCollective": "",
+        "patreon": "",
+        "github": "",
+        "custom": [
+            "https://afdian.net/a/zuoez02"
+        ]
+    }
+}
