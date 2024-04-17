@@ -1,21 +1,5 @@
 {
-    "title": "Background Grid",
-    "setting": "Setting",
-    "type": "type",
-    "grid": "grid",
-    "point": "point",
-    "grid_width": "Grid width",
-    "grid_size": "Grid size",
-    "grid_color": "Grid color",
-    "grid_opacity": "Grid opacity",
-    "close": "Close",
-    "reset": "Reset",
-    "turnOn": "Turn On the function",
-    "turnOff": "Turn off the function",
-    "mode": "Mode",
-    "content": "Content(scroll)",
-    "editor": "Editor(fixed)",
-    "editable": "Close when readonly",
-    "yes": "yes",
-    "no": "no"
-}
+    "title": "Quick Note",
+    "create": "Create Node",
+    "notebook": "Select Notebook"
+   }
