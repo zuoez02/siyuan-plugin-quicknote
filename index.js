@@ -33,7 +33,6 @@ class QuickNotePlugin extends Plugin {
     this.setting = new Setting({
       confirmCallback: () => {
         this.config.noteId = select.value;
-        console.log(select.value);
         this.saveConfig();
       },
     });
@@ -75,10 +74,6 @@ class QuickNotePlugin extends Plugin {
 
   async loadConfig() {
     const config = await this.loadData("config.json");
-    if (!config) {
-      this.apply();
-      return;
-    }
     this.config = Object.assign({}, this.config, config);
   }
 
